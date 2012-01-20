@@ -1,0 +1,3 @@
+--require coffee-script
+--require should
+--require test/support/http

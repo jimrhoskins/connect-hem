@@ -1,0 +1,40 @@
+{
+  "author": "Jim Hoskins <jim@jimhoskins.com> (http://jimhoskins.com)",
+  "name": "connect-hem",
+  "description": "Connect middleware hem",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jimrhoskins/connect-hem.git"
+  },
+  "keywords": [
+    "hem",
+    "spin",
+    "Connect",
+    "Express",
+    "middleware"
+  ],
+  "homepage": "http://github.com/jimrhoskins/connect-hem",
+  "bugs": {
+    "name": "https://github.com/jimrhoskins/connect-hem/issues"
+  },
+  "main": "lib/connect-hem.js",
+  "engines": {
+    "node": "*"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/jimrhoskins/connect-hem/blob/master/LICENSE"
+    }
+  ],
+  "dependencies": {
+    "hem": "~1.2.0"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "coffee-script": "*",
+    "connect": "*",
+    "should": "*"
+  }
+}
