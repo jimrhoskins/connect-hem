@@ -16,7 +16,7 @@
   ],
   "homepage": "http://github.com/jimrhoskins/connect-hem",
   "bugs": {
-    "name": "https://github.com/jimrhoskins/connect-hem/issues"
+    "url": "https://github.com/jimrhoskins/connect-hem/issues"
   },
   "main": "lib/connect-hem.js",
   "engines": {
@@ -29,7 +29,7 @@
     }
   ],
   "dependencies": {
-    "hem": "~1.2.0"
+    "hem": "~0.1.6"
   },
   "devDependencies": {
     "mocha": "*",

@@ -26,7 +26,7 @@ Example using express:
 
 The middleware builder takes one argument, `options`, which is an Object 
 
-  * `jsPath`: The path which will seve the compiled JavaScript: Default: `'/applications.js'`
+  * `jsPath`: The path which will seve the compiled JavaScript: Default: `'/application.js'`
   * `slug`: Path to slug.json file. Default: `'./slug.json'`
   * `libs`: Array of additional static js files to include. Default: `[]`
   * `paths`: Array of paths to locations of your script files. Default: `['./app']`
