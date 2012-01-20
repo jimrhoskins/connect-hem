@@ -25,6 +25,7 @@ Example using express:
     app.listen(80);
 
 The middleware builder takes one argument, `options`, which is an Object 
+
   * `jsPath`: The path which will seve the compiled JavaScript: Default: `'/applications.js'`
   * `slug`: Path to slug.json file. Default: `'./slug.json'`
   * `libs`: Array of additional static js files to include. Default: `[]`
